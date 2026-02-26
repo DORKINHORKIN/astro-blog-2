@@ -1,9 +1,6 @@
 media:
   input: public
   output: /
-media2:
-  input: public
-  output: /
 content:
   - name: posts
     label: Posts
